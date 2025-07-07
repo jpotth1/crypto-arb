@@ -1,4 +1,4 @@
-# Crypto Arbitrage POC
+# Crypto Arbitrage Bot
 
 **Goal:** Paper-trade BTC/USD arbitrage between two exchanges.
 
